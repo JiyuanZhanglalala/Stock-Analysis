@@ -6,3 +6,4 @@ Here is an Example of  Nio, and also planning to use Tesla to find the similiar 
 
 Beside that, find the stock exchnge volumne to find the pattern
 
+也是 
